@@ -1,0 +1,128 @@
+[
+  {
+    "id": "1",
+    "title": "Adana Kebap",
+    "category": "Foods",
+    "price": "150",
+    "path": "/images/adana.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Urfa Kebap",
+    "category": "Foods",
+    "price": "150",
+    "path": "/images/urfa.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Ciğer Şiş",
+    "category": "Foods",
+    "price": "180",
+    "path": "/images/ciger.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Döner Beyti",
+    "category": "Foods",
+    "price": "200",
+    "path": "/images/beyti.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Tavuk Şiş",
+    "category": "Foods",
+    "price": "160",
+    "path": "/images/tavuksis.jpeg"
+  },
+  {
+    "id": "6",
+    "title": "Tavuk Kanat",
+    "category": "Foods",
+    "price": "170",
+    "path": "/images/tavukkanat.png"
+  },
+  {
+    "id": "7",
+    "title": "Aşure",
+    "category": "Desserts",
+    "price": "70",
+    "path": "/images/asure.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Kazandibi",
+    "category": "Desserts",
+    "price": "70",
+    "path": "/images/kazandibi.jpg"
+  },
+  {
+    "id": "9",
+    "title": "Magnolya",
+    "category": "Desserts",
+    "price": "70",
+    "path": "/images/magnolya.jpg"
+  },
+  {
+    "id": "10",
+    "title": "Supangle",
+    "category": "Desserts",
+    "price": "70",
+    "path": "/images/supangle.jpg"
+  },
+  {
+    "id": "11",
+    "title": "Sütlaç",
+    "category": "Desserts",
+    "price": "70",
+    "path": "/images/sutlac.jpeg"
+  },
+  {
+    "id": "12",
+    "title": "Trileçe",
+    "category": "Desserts",
+    "price": "70",
+    "path": "/images/trilece.png"
+  },
+  {
+    "id": "13",
+    "title": "Çay",
+    "category": "Drinks",
+    "price": "20",
+    "path": "/images/cay.jpg"
+  },
+  {
+    "id": "14",
+    "title": "Soğuk Çay",
+    "category": "Drinks",
+    "price": "30",
+    "path": "/images/didi.jpeg"
+  },
+  {
+    "id": "15",
+    "title": "Soğuk Çay",
+    "category": "Drinks",
+    "price": "30",
+    "path": "/images/didi2.jpg"
+  },
+  {
+    "id": "16",
+    "title": "Limonata",
+    "category": "Drinks",
+    "price": "40",
+    "path": "/images/limonata.jpeg"
+  },
+  {
+    "id": "17",
+    "title": "Meyve Suyu Çeşitleri",
+    "category": "Drinks",
+    "price": "40",
+    "path": "/images/meyvesuyu.jpg"
+  },
+  {
+    "id": "18",
+    "title": "Pepsi",
+    "category": "Drinks",
+    "price": "30",
+    "path": "/images/pepsi.jpeg"
+  }
+]

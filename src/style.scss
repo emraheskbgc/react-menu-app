@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #243f4d;
+}
+.header{
+    font-size:40px;
+    font-weight: bold;
+    // background: linear-gradient(to right, #98d40a, #7862f8);
+  background-color:  #b5e6db;
+    -webkit-background-clip: text; 
+    color: transparent;
+    margin-top: 50px;
+    text-align: center;
+}
+.buttonDiv{
+    width: 100%;
+    height: 100%;
+    margin-top: 15px;
+}
+.buttonDiv button{
+    color: #fff ;
+}
+.listCard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}.cardDiv{
+    border-radius: 20px;
+    
+}
+.card-img-top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-title{
+    font-weight: 500;
+    color: #243f4d;
+}
+.card-text{
+    color: red;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row-reverse;
+}
